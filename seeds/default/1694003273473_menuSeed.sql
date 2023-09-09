@@ -1,0 +1,10 @@
+SET check_function_bodies = false;
+INSERT INTO public.menu (id, image, weight, title, price, ingridients) VALUES ('a7e64b93-24d0-4b01-8b6f-96969b8923e0', 'manhattan.jpeg', 555, 'Manhattan Pizza', 215, '(double portion of mushrooms), Mushrooms, Mozzarella, Pepperoni, Alfredo Sauce');
+INSERT INTO public.menu (id, image, weight, title, price, ingridients) VALUES ('421b2082-00f3-4fa4-bb41-9cd7501429c2', 'pepperoni-w-tomatoes.jpeg', 554, 'Pepperoni Pizza with Tomatoes', 215, 'Mozzarella, Pepperoni, Tomatoes, Barbecue Sauce');
+INSERT INTO public.menu (id, image, weight, title, price, ingridients) VALUES ('c9481744-e9fc-4b9d-af2b-f1340b5cdd45', 'ham-w-mushrooms.jpeg', 545, 'Ham and Mushroom Pizza', 215, 'Ham, Mushrooms, Mozzarella, PizzaStack Sauce');
+INSERT INTO public.menu (id, image, weight, title, price, ingridients) VALUES ('20de78ee-285d-4977-aaff-75c2b75506d7', 'texas.jpeg', 550, 'Texas Pizza', 215, 'Corn, Onions, Mushrooms, Bavarian Sausages, Mozzarella, Barbecue Sauce');
+INSERT INTO public.menu (id, image, weight, title, price, ingridients) VALUES ('7c3de376-927c-4b30-8c6a-6638c3a9e011', 'pepperoni.jpeg', 560, 'Pepperoni Pizza', 250, 'Mozzarella, Pepperoni, PizzaStack Sauce');
+INSERT INTO public.menu (id, image, weight, title, price, ingridients) VALUES ('d9ae06d5-72ab-4954-9ce8-31caa9e80620', 'margarita.jpeg', 552, 'Margherita Pizza', 250, '(double portion of mozzarella), Mozzarella, PizzaStack Sauce');
+INSERT INTO public.menu (id, image, weight, title, price, ingridients) VALUES ('964b855b-a6eb-4f21-8479-0bc714ba74ad', 'barbecue.jpeg', 552, 'Barbecue Pizza', 255, 'Chicken, Onions, Bacon, Mushrooms, Mozzarella, Barbecue Sauce');
+INSERT INTO public.menu (id, image, weight, title, price, ingridients) VALUES ('285cd4bf-94e7-4880-a7bf-7f216d2ab180', 'grill-mix.jpeg', 569, 'Grill Mix Pizza', 250, 'Chicken, Meatballs, Onions, Bacon, Bell Peppers, Mozzarella, Barbecue Sauce');
+INSERT INTO public.menu (id, image, weight, title, price, ingridients) VALUES ('c47ba156-acad-43e6-b6e7-472a3f43b059', 'carbonara.jpeg', 540, 'Carbonara Pizza', 250, 'Onions, Bacon, Ham, Mushrooms, Mozzarella, Alfredo Sauce');

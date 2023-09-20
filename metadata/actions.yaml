@@ -18,7 +18,7 @@ actions:
       forward_client_headers: true
       headers:
         - name: x-pizzastack-secret-key
-          value: mypizzastacksecretkey
+          value_from_env: HASURA_PIZZASTACK_SECRET
     comment: Admin Registration
   - name: cloudinarySignature
     definition:

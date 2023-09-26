@@ -8,6 +8,7 @@ actions:
     definition:
       kind: ""
       handler: '{{HASURA_ACTIONS_ENDPOINT}}/admin-login'
+      forward_client_headers: true
     permissions:
       - role: guest
     comment: Login Admin

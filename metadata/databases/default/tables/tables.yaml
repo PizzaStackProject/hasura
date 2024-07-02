@@ -1,3 +1,7 @@
 - "!include public_admin.yaml"
 - "!include public_category.yaml"
+- "!include public_last_week_orders.yaml"
 - "!include public_menu.yaml"
+- "!include public_order_status.yaml"
+- "!include public_orders.yaml"
+- "!include public_orders_menu.yaml"

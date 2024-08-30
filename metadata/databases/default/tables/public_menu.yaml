@@ -24,3 +24,15 @@ select_permissions:
         - weight
       filter: {}
     comment: ""
+  - role: user
+    permission:
+      columns:
+        - price
+        - weight
+        - image
+        - ingredients
+        - title
+        - category_id
+        - id
+      filter: {}
+    comment: ""

@@ -20,3 +20,11 @@ select_permissions:
         - title
       filter: {}
     comment: ""
+  - role: user
+    permission:
+      columns:
+        - slug
+        - title
+        - id
+      filter: {}
+    comment: ""
